@@ -48,7 +48,7 @@
   *Javascript dilinde _yazı dizisi_ türünde değişken oluşturmak için çift tırnak kullanılır. Örneğin `let hw = "Hello World";`*
 
 ## Expression
-  **İfade*
+  **İfade**
 
 
 ## French Quote
@@ -61,6 +61,11 @@
   **Üst seviye**
 
   Bakınız: Low level
+
+
+## Issue
+  **Konu*+
+
 
 ## Low level
   **Alt seviye**
@@ -81,7 +86,7 @@
 ## Objet oriented
   **Nesne odaklı**
 
-  Odağında nesne bulunan. Temel programlama mantığı nesne etrafında inşa edilmiş.
+  Odağında nesne olan, temel programlama mantığı nesne etrafında örgülenmiş.
 
   *Java, nesne odaklı programlama dillerinin başında gelir*
 
@@ -109,7 +114,7 @@
 
 
 ## PR
-  **Kısaltma: Pull request**
+  Kısaltma: **Pull request**
 
 
 ## Push
