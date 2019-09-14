@@ -64,7 +64,7 @@
 
 
 ## Issue
-  **Konu*+
+  **Konu**
 
 
 ## Low level
